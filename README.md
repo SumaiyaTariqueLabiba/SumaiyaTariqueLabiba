@@ -2,7 +2,6 @@
 - I’m currently learning VLSI Design Verification methods and protocols. 
 - I’m looking to collaborate on projects and research papers on technological advancements in VLSI Chip design, System Architecture, Verification methods, tools, protocols and more.
 - Contact me: Linkedin - https://www.linkedin.com/in/sumaiya-tarique-labiba
-
 - Fun fact: I like doing nothing. Builds character
 
 <!---
