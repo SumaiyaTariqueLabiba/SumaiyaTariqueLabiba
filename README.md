@@ -1,7 +1,7 @@
  Hi, I’m Labiba!
 - I’m currently learning RTL, DV methods and protocols.
 - I’m looking to collaborate on projects and research on VLSI Chip design, System Architecture, Verification methods, tools, protocols and more.
-- Contact me: Linkedin - https://www.linkedin.com/in/sumaiya-tarique-labiba
+- Linkedin - https://www.linkedin.com/in/sumaiya-tarique-labiba
 
 
 <!---
